@@ -2,6 +2,7 @@
     font-family: 'Friz Quadrata Std Medium';
     font-style: normal;
     font-weight: normal;
+    font-color: #ffff00;
     src: local('Friz Quadrata Std Medium'), url('friz-quadrata-std-medium-5870338ec7ef8.woff') format('woff');
     }
     
@@ -58,7 +59,7 @@ h2
     display: inline-block;
     width: 25px;
     height: 25px;
-    border: 2px solid #ffff00;
+    border: 2px solid #fff;
 }
 .list input[type="checkbox"]:checked ~ i
 {
