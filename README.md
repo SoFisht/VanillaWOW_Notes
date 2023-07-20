@@ -13,3 +13,8 @@ Current TODO list:
 - [ ] Create integrated images and clickable links for lists
 - [ ] Create video demonstration of relevant trinket/consumable effects
 - [ ] Create explanation of use-case for Consumables and Equipment
+
+Future Projects:
+- [ ] Create CSV tables of Shaman leveling spells/weapons
+- [ ] Create written Shaman leveling guide
+- [ ] Create Shaman Raid reference notes, designed to be quickly referenced in combat to remember key mechanics/Totem usage
