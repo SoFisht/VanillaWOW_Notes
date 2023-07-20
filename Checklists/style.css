@@ -20,6 +20,7 @@ body
     min-height: 100vh;
     overflow: hidden;
     background: #001925;
+    color: #ffff00;
 }
 .list
 {
@@ -42,7 +43,7 @@ h2
     position: relative;
     display: block;
     margin: 40px 0;
-    color: #FFFF00;
+    color: #FFF;
     font-size: 24px;
 }
 .list input[type="checkbox"]
@@ -56,7 +57,7 @@ h2
     display: inline-block;
     width: 25px;
     height: 25px;
-    border: 2px solid #fff;
+    border: 2px solid #ffff00;
 }
 .list input[type="checkbox"]:checked ~ i
 {
@@ -84,7 +85,7 @@ h2
     background: #fff;
     transform: translateY(-50%) scaleX(0);
     transform-origin: right;
-    transition: transform 0.5s;
+    transition: transform 0.1s;
 }
 .list input[type="checkbox"]:checked ~ span
 {
