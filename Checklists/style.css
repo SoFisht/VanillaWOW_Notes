@@ -10,7 +10,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Friz Quadrata Std Medium';
-    color: #ffff00;
+    color: #fff;
     box-sizing: border-box;
 }
 body
@@ -21,7 +21,7 @@ body
     min-height: 100vh;
     overflow: hidden;
     background: #001925;
-    color: #ffff00;
+    color: #fff;
 }
 .list
 {
