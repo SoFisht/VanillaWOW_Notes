@@ -1,4 +1,4 @@
-PvP Item Item Checklist,,,,,,,,,,,
+PvP Item Item Checklist
 Item Name,Type,Bind,Effect,Cooldown,Shared CD,Profession,Zone,Location,Notes,Wowhead,In-Game Link
 Tidal Charm,Trinket,BoP,Stuns target for 3 sec.,15 Min,,,Arathi Highlands,"Rare: Prince Nazjak (23,85)","Use Unitscan to look for the Rare; Respawn is 32-48Hrs, pushed back by Reset; Can bring Swimspeed Potion, Azure Silk Belt, Deepdive Helmet or Hydrocane, etc. to increase underwater mobility",/item=1404,"/script DEFAULT_CHAT_FRAME:AddMessage(""\124cff1eff00\124Hitem:1404::::::::60:::::\124h[Tidal Charm]\124h\124r"");"
 Arena Grand Master,Trinket,BoP,Absorbs 750-1250 damage. Lasts 20 sec.,30 Min,,,Stranglethorn Vale,"Quest: Arena Grandmaster (30,47)",Requires Arena Master Quest Prereq.; Arena Master tokens obtained from chest in Gurubashi Arena,/item=19024,"/script DEFAULT_CHAT_FRAME:AddMessage(""\124cff0070dd\124Hitem:19024::::::::60:::::\124h[Arena Grand Master]\124h\124r"");"
