@@ -7,8 +7,9 @@ The list is broken into 2 sections, both with searchable lists that have key inf
 
 Current TODO list:
 - [ ] Build README that explains repo. progress/usability
-- [X] Create CSV table of Consumables
-- [X] Create CSV table of Equipment
+- [X] Create CSV Table of PvP-Specific Consumables
+- [X] Create CSV Table of PvP-Specific Equipment
+- [ ] Update PvP CSV Tables with 'usage' column
 - [ ] Create interactable checklists to download
 - [ ] Create integrated images and clickable links for lists
 - [ ] Create video demonstration of relevant trinket/consumable effects
