@@ -8,13 +8,13 @@
 \\Ghamoo-Ra
 {{2 Tank}}
 -TANK SWAP:
-  * Taunt on 2x <CRUNCH ARMOR>
--Raidwide Nuke after <AQUA SHELL> ends
+  * Taunt on Nx <CRUNCH ARMOR>
+-Raidwide Nuke/KB after <AQUA SHELL> ends
 
 \\Lady Sarevess
 {{2 Tank}}
 -Off Tank: Add
-  * Add can be stunned in frost AoE
+  * Away from boss to bait AoE
 -Main Tank: Face Away
 -SPREAD
 
@@ -27,7 +27,6 @@
 -May need to DPS tentacles
 
 \\Gauntlet
--AoE Burn everything
 -Kick PRIESTESS <HEAL>
 
 \\Lorgus Jett
@@ -35,16 +34,15 @@
 -Burst threat on Pull
 -TOTEMS:
   * Order: WF > LS > MF >
-  * KILL <LIGHTNING SHIELD>
+  * KILL <LIGHTNING SHIELD TOTEM>
 -STOP ATTACK ON LS TOTEM SPAWN
--Dodge Boulders
--Watch HP during WF
 
 \\Twilight Lord Kelris
 {{1 Tank}}
--SHADOW PROT POTION (Can save for 35% Phase)
+-SPP (Pre-Pot)/FAP (35% Phase)
 -Tank CAN be picked for <SLEEP>
   * <SLEEP> targets closest Raid Member
+  * Kill nearest PHANTASMAL PRIESTESS by statues
 -KICK <MindBlast> & <SHADOWY CHAINS> pre-35%
 
 \\Aku'Mai
@@ -52,7 +50,7 @@
 -HATEFUL STRIKE (2nd highest threat)
 -TANK SWAP:
   *Stacking damage
-  *Cleanse in Pools (1 time use) OR let Tank die
+  *Cleanse in Pools (1 time use)
   *Cleanse spawns adds & destroys pool
 -Off tank: Adds
 -50% Phase swaps <CORROSION> for <SHADOW SEEP>
