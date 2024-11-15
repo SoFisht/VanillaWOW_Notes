@@ -1,0 +1,51 @@
+Mouseover:
+#showtooltip
+/use [@mouseover,help,nodead][@targettarget,help,nodead][]<SPELL>
+
+Weapon/Shield Buffs:
+#showtooltip
+/use [button:1]Rockbiter Weapon;[button:2]Flametongue Weapon;Lightning Shield
+/click StaticPopup1Button1
+
+Utility Buffs:
+#showtooltip
+/use [button:1]Water Walking;[mod:alt][button:1]Water Breathing;Ancestral Recall
+
+Tagging:
+/cleartarget [dead]
+/target [nodead] <NAME>
+/script SetRaidTarget("target", 8);
+/use <SPELL>
+
+Modifiers: 
+[mod:shift][mod:alt][mod:ctrl]
+[button:1][button:2]
+
+/script SetRaidTargetIcon(“target”, <#>)
+    1 	Star
+    2 	Circle
+    3 	Diamond
+    4 	Triangle
+    5 	Moon
+    6 	Square
+    7 	X
+    8 	Skull
+
+/equipslot <#> <ITEM>
+    1	Head
+    2	Neck
+    3	Shoulder
+    4	Shirt
+    5	Chest
+    6	Waist
+    7	Legs
+    8	Feet
+    9	Wrist
+    10	Hands
+    11	Finger 1
+    12	Finger 2
+    13	Trinket 1
+    14	Trinket 2
+    15	Back
+    16	Main hand
+    17	Off hand
