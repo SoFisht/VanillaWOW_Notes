@@ -1,0 +1,90 @@
+AQ Notes
+
+IMPORTANT: These notes describe shaman-specific playstyle changes specific to fights including totems, interrupts, and purges.  It does NOT describe all boss mechanics or the means of healing them. ie. Some fights are single target rather than multitarget, this is not mentioned.
+__________________________
+
+Pre-Skeram Trash
+Totems - WF|SoE|HST or MST
+
+*Skeram*
+(opt. GNPP)
+Pop GAPP
+Check Assigns for Position
+Totems - Grounding|SoE|HST or MST
+
+Post-Skeram Trash
+*Warriors - 
+Drop Nova/Magma and Nade/Sapper
+Don't stack, watch LOS
+*Brainwashers - 
+Totems - Grounding
+
+*Bug Family*
+Pop GNPP
+Tremor fears
+Totems - Twist|SoE|PoisCleanse
+
+*Sartura*
+Adds first (PBAoE, Sapper)
+LIP if under whirlwind (No Mana Pot)
+NO BLOODFURY
+Pump high HPS chainheals
+Totems - WF|SoE|HST or MST
+
+Bug Gauntlet
+NO SAPPER
+NO TOTEMS
+
+*Fankriss*
+Use the bathroom
+Totems - Twist|SoE|HST or MST
+
+*Viscidus*
+Pop GNPP
+Coldrage Dagger, Frostbrand Weapon, Frost Shock
+Sapper/Nova on Blobs
+WATCH HEAL AGGRO DURING REFORM
+Cleanse ASAP
+Totems - NatRes|SoE|PoisCleanse
+(opt. twist WF)
+
+Post-Fankriss Trash
+Debuff becomes poison
+Cleanse ASAP
+
+*Huhuran*
+DO NOT DISPELL WYVERN ON DPS
+Call when you're slept
+Barov's Trinket
+Totems - Twist|SoE|HST or MST
+
+Post-Huhuran Trash
+Avoid defenders when low
+Stack for Meteors, run from TClap, Plague = bomb
+Totems - WF|SoE|FireRes
+
+*Twin Emperors*
+Check Assigns for Position
+Pop GFrPP & GFPP (opt. GSPP)
+Redrop totems
+NO TA IN LOCK GROUP
+WATCH HEAL AGGRO DURING SWAP
+Totems - WF|SoE|FroRes|MST or FireRes
+
+Post-Twins Trash
+LOS Warders, Mindslayers on death
+Purge Champion
+Totems - Grounding (Mindslayers)|Tremor
+
+*Ouro*
+Pop GNPP
+Totems - WF|SoE|HST or MST
+
+*C'Thun*
+Pop GNPP & GSPP
+/range 8 Spread
+Earthshock Eye Tentacles
+Twist/DPS on Burn
+Totems: WF|SoE|HST or MST
+(opt. Ground Tentacle MindFlays)
+(opt. Redrop Totems on Beam)
