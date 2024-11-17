@@ -1,95 +1,209 @@
 Dungeon Name
 Minimum Quest Requirement - Minimum Relevant Gear Requirement
 Quest Location 1, 2, 3
-Loot 1, Boss
-Loot 2, Boss
-Loot 3, Boss
+- Loot 1, Boss
+- Loot 2, Boss
+- Loot 3, Boss
 
 
 Ragefire Chasm
-9 - 
+9 - 13
 Orgrimmar, Thunder Bluff, Undercity
-
+- None
 
 Wailing Caverns
-15 - 
-Barrens, Thunder Bluff
-
+15 - 23
+- Barrens, Thunder Bluff
+- Leggings of the Fang, Cobrahn
+- Armor of the Fang, Pythas
+- Stinging Viper, Pythas
+- Living Root, Verdan
+- Seedcloud Buckler, Verdan
+- Deep Fathom Ring, Mutanus
 
 Shadowfang Keep
-18 - 
-Silverpine Forest, Undercity 
-
+18 - 24
+- Silverpine Forest, Undercity 
+- Fel Steed Saddlebags, Fel Steed
+- Butcher's Cleaver, Razorclaw
+- Commander's Crest, Springvale
+- Feline Mantle, Nandos
+- Robes of Arugal, Arugal
+- Belt of Arugal, Arugal
+- Meteor Shard, Arugal
 
 Blackfathom Deeps
-21 - 
+21 - 26
 Ashenvale
+- Naga Battle Gloves, Sarevess
+- Rod of the Sleepwalker, Kelris
+- Leech Pants, Aku'Mai
+- Moss Cinch, Aku'Mai
 
 
 Gnomeregan
-25 - 
+25 - 32
 Orgrimmar
+- Acidic Walkers, Viscous Fallout
+- Electrocutioner Lagnut, Electrocutioner
+- Manual Crowd Pummeler, Crowd Pummeler
+- Royal Diplomatic Scepter, Ambassador (RARE)
+- Thermaplugg's Central Core, Thermaplugg
+- Thermaplugg's Left Arm, Thermaplugg
+- Electromagnetic Gigaflux Reactivator, Thermaplugg
 
 
 Razorfen Kraul
-30 - 
+30 - 31
 Barrens, Thunderbluff, Undercity
+- Corpsemaker, Ramtusk
+- Swinetusk Shank, Agathelos
+- Stygian Bone Amulet, Blind Hunter (RARE)
+- Batwing Mantle, Blind Hunter (RARE)
+- Wind Spirit Staff, Halmgar
+- Whisperwind Headdress, Halmgar
+- Agamaggan's Clutch, Razorflank
+- Heart of Agamaggan, Razorflank
+- Pronged Reaver, Razorflank
 
 
 Scarlet Monastery
 *Graveyard
-25 - 
+25 - 30
 Undercity
+- Ghostshard Talisman, Azshir (RARE)
+- Embalmed Shroud, Fallen Champion (RARE)
 
 *Library
-28 - 
+28 - 34
 Thunderbluff, Undercity
+- Mantle of Doan, Doan
+- Illusionary Rod, Doan
+- Hypnotic Blade, Doan
 
 *Armory
-33 - 
+33 - 37
 Undercity
+- Ravager, Herod
 
 *Cathedral
-33 - 
+33 - 39
 Undercity
+- Aegis of the Scarlet Commander, Mograine
+- Mograine's Might, Mograine
+- Whiteman's Chapeau, Whitemane
+- Hand of Righteousness, Whitemane
+- Triune Amulet, Whitemane
 
 
 Razorfen Down
-37 - 
+37 - 40
 Barrens, Undercity
+- Glowing Eye of Mordresh, Tuten'Kash
+- Coldrage Dagger, Amnennar
+- Deathchill Armor, Amnennar
 
 
 Uldaman
-40 - 
+40 - 44
 Badlands, Undercity
+- Horned Viking Helmet, Dwarves
+- Olaf's All Purpose Shield, Dwarves
+- Ironshod Bludgeon, Ironaya
+- Stoneweaver Leggings, Ironaya
+- Rockshard Pauldrons, Ancient Stone Keeper
+- Galgann's Firehammer, Galgann
+- Grimmloks's Tribal Vestments, Grimlok
 
 
 Zul'Farrak
-40 - 
+40 - 45
 Tanaris, Durotar, Dustwallow Marsh, Thousand Needles
-
+- Hand of Antu'sul, Antu'sul
+- Jumanza Grips, Zum'rah
+- Zumrah's Vexing Cane, Zum'rah
+- Jinxed Hoodoo Skin, Stairs
+- Jinxed Hoodoo Kilt, Stairs
+- Chief's Enforcer, Ukorz
+- Ripsaw, Ukorz
+- Gahz'rilla Scale Armor, Gahz'rilla
 
 Maraudon
-41 - 
+41 - 49
 Desolace, Orgrimmar
+- Satyr's Lash, Vyletongue
+- Vinerot Sandals, Razorlash
+- Soothsayer's Headdress, Celebras
+- Fist of Stone, Landslide
+- Rockgrip Gauntlets, Landslide
+- Blade of Eternal Darkness, Princess
+- Charstone Dirk, Princess
+- Eye of Theradras, Princess
+- Gemshard Heart, Princess
+- Rotgrip Mantle, Rotgrip
+- Gizlock's Hypertech Buckler, Gizlock (PreBIS)
 
 
 Sunken Temple
-48 - 
+48 - 51
 Swamp of Sorrows, Tanaris, Feralas, Barrens
+- Gloves of the Atal'ai Prophet, Jamal'an
+- Kilt of the Atal'ai Prophet, Jamal'an
+- Vestments of the Atal'ai Prophet, Jamal'an
+- Drakestone, Drakes (Pre-BIS; Healing PROC)
+- Dawnspire Cord, Drakes
+- Tooth of Eranikus, Shade
+- Horns of Eranikus, Shade
+- Crest of Supremeacy, Shade
+
 
 Blackrock Depths
-52* -  (Attune 55)
+52* - 55 (Attune 55)
 Burning Steppes, Badlands, Tanaris
+- Greaves of Withering Despair, Gerstahn (Pre-BIS)
+- Kentice Amice, Gerstahn
+- Mantle of Lost Hope, Roccor (Pre-BIS)
+- Spritecaster Cape, Gerstahn (Pre-BIS)
+- Ogreseer Fists, Ok'Thor
+- Cyclopean Band, Ok'thor (Pre-BIS)
+- Chief Architect's Monocle, Fineous
+- Senior Designer's Pnataloons, Fineous (Pre-BIS)
+- Lead Surveyor's Mantle, Fineous (Pre-BIS)
+- Hammer of Grace, Safe/Seven (Pre-BIS)
+- Second Wind, Argelmach (Pre-BIS)
+- Luminary Kilt, Argelmach
+- Firemoss Boots, Blackbreath
+- Wayfarer's Knapsack, Ribbly
+- Goblin Jumper Cables XL Schematic, Plugger
+- Circle of Flame, Flamelash
+- Burst of Knowledge, Flamelash (Pre-BIS)
+- Thaurissan's Royal Scepter, Emporer (Pre-BIS)
+- Hands of the Exalted Herald, Princess (Pre-BIS)
 
 
 Lower Blackrock Spire
-57 - 
+57 - 57
 Burning Steppes, Badlands, Tanaris
+- Rivenspike, Butcher (RARE)
+- Tome of Divine Right, Grayhoof (Pre-BIS)
+- Fallbrush Handgrips, Crystal Fang (RARE)
+- Rosewine Circle, Urok (Pre-BIS)
+- Rhombeard Protector, Gizrul
+- Wolfshear Leggings, Gizrul
+- Mark of the Dragon Lord, Wyrmthalak (Pre-BIS)
+
 
 Scholomance
-57* -  (Class 58)
+57* - 57 (Class 58)
 Western Plaguelands, Eastern Plaguelands, Tirisfal Glades, Orgrimmar
+- Loomguard Armbraces, Kirtonos (Pre-BIS)
+- Royal Cap Spaulders, Jandice (Pre-BIS)
+- Rattlecage Bucklet, Rattlegore
+- Maelstrom Leggings, Ras
+- Ghoulskin Leggings, Barovs (Pre-BIS)
+- Witchblade, Gandling (Pre-BIS)
+- Don Mauricio's Band, Gandling (Pre-BIS)
+
 
 Stratholme
 *Live
