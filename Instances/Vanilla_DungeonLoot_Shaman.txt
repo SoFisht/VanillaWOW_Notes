@@ -1,0 +1,122 @@
+Dungeon Name
+Minimum Quest Requirement - Minimum Relevant Gear Requirement
+Quest Location 1, 2, 3
+Loot 1, Boss
+Loot 2, Boss
+Loot 3, Boss
+
+
+Ragefire Chasm
+9 - 
+Orgrimmar, Thunder Bluff, Undercity
+
+
+Wailing Caverns
+15 - 
+Barrens, Thunder Bluff
+
+
+Shadowfang Keep
+18 - 
+Silverpine Forest, Undercity 
+
+
+Blackfathom Deeps
+21 - 
+Ashenvale
+
+
+Gnomeregan
+25 - 
+Orgrimmar
+
+
+Razorfen Kraul
+30 - 
+Barrens, Thunderbluff, Undercity
+
+
+Scarlet Monastery
+*Graveyard
+25 - 
+Undercity
+
+*Library
+28 - 
+Thunderbluff, Undercity
+
+*Armory
+33 - 
+Undercity
+
+*Cathedral
+33 - 
+Undercity
+
+
+Razorfen Down
+37 - 
+Barrens, Undercity
+
+
+Uldaman
+40 - 
+Badlands, Undercity
+
+
+Zul'Farrak
+40 - 
+Tanaris, Durotar, Dustwallow Marsh, Thousand Needles
+
+
+Maraudon
+41 - 
+Desolace, Orgrimmar
+
+
+Sunken Temple
+48 - 
+Swamp of Sorrows, Tanaris, Feralas, Barrens
+
+Blackrock Depths
+52* -  (Attune 55)
+Burning Steppes, Badlands, Tanaris
+
+
+Lower Blackrock Spire
+57 - 
+Burning Steppes, Badlands, Tanaris
+
+Scholomance
+57* -  (Class 58)
+Western Plaguelands, Eastern Plaguelands, Tirisfal Glades, Orgrimmar
+
+Stratholme
+*Live
+55 - 
+Eastern Plaguelands, Western Plaguelands
+
+*Dead
+58 - 
+Eastern Plaguelands
+
+
+Upper Blackrock Spire
+57 - 
+Burning Steppes, Badlands, Winterspring, Azshara, Desolace, Orgrimmar
+
+
+Dire Maul
+*East
+56 - 
+Feralas, Moonglade
+
+*West
+56 - 
+Feralas
+
+*North
+56 - 
+Feralas
+
+
