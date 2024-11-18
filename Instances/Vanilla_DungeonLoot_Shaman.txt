@@ -141,7 +141,7 @@ Desolace, Orgrimmar
 - Eye of Theradras, Princess
 - Gemshard Heart, Princess
 - Rotgrip Mantle, Rotgrip
-- Gizlock's Hypertech Buckler, Gizlock (PreBIS)
+- Gizlock's Hypertech Buckler, Gizlock (Pre-BIS)
 
 
 Sunken Temple
@@ -150,7 +150,7 @@ Swamp of Sorrows, Tanaris, Feralas, Barrens
 - Gloves of the Atal'ai Prophet, Jamal'an
 - Kilt of the Atal'ai Prophet, Jamal'an
 - Vestments of the Atal'ai Prophet, Jamal'an
-- Drakestone, Drakes (Pre-BIS; Healing PROC)
+- Drakestone, Drakes (Pre-BIS; PROC)
 - Dawnspire Cord, Drakes
 - Tooth of Eranikus, Shade
 - Horns of Eranikus, Shade
@@ -207,30 +207,60 @@ Western Plaguelands, Eastern Plaguelands, Tirisfal Glades, Orgrimmar
 
 Stratholme
 *Live
-55 - 
+55 - 58
 Eastern Plaguelands, Western Plaguelands
+- Mantle of the Scarlet Crusade, Willey
+- Helm of the New Moon, Willey
+- Barrage Girdle, Willey (Pre-BIS)
+- Archivist Cape, Galford (Pre-BIS; PROC)
+- Band of Mending, Balnazzar (Pre-BIS)
+- Book of the Dead, Balnazzar
 
 *Dead
-58 - 
+58 - 58
 Eastern Plaguelands
+- Crimson Felt Hat, Barthilas
+- Verdant Footpads, Stonespine (Pre-BIS; RARE)
+- Animated Chain Necklace, Ramstein (Pre-BIS)
+- Crest of Retribution, Ramstein
+- Tunis of the Crescent Moon, Baron
+- Dracorian Gauntlets, Baron (Pre-BIS)
+- Robes of the Exalted, Baron (Pre-BIS)
+- Deathcharger's Reins, Baron
 
 
 Upper Blackrock Spire
-57 - 
+57 - 58
 Burning Steppes, Badlands, Winterspring, Azshara, Desolace, Orgrimmar
+- Mastersmith's Hammer, Anvilcrack
+- Briarwood Reed, Jed (Pre-BIS)
+- Tribal War Feathers, Gyth (Pre-BIS)
+- Band of Rumination, Rend
+- Pip's Skinner, Beast
 
 
 Dire Maul
 *East
-56 - 
+56 - 54
 Feralas, Moonglade
+- Tempest Talisman, Hydrospawn
+- Waterspout Boots, Hydrospawn
+- Whipvine Cord, Alzzin
+- Hammer of Revitilization
 
 *West
-56 - 
+56 - 56
 Feralas
+- Padre's Trousers, Illyanna
+- Eyestalk Cord, Immol'thar
+- Cloak of the Cosmos, Immol'thar
+- Silvermoon Leggeings, Tortheldrin
 
 *North
-56 - 
+56 - 58
 Feralas
-
+- Heliotrope Cloak, Ogres
+- Brightly Glowing Stone, Gordok
+- Harmonious Gauntlets, Gordok
+- Insightful Hood, Cho'rush
 
