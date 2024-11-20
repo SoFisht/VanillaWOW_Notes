@@ -9,7 +9,7 @@ Weapon/Shield Buffs:
 
 Utility Buffs:
 #showtooltip
-/use [button:1]Water Walking;[mod:alt][button:1]Water Breathing;
+/use [button:1]Water Walking;[button:2]Water Breathing;
 
 Recall:
 #showtooltip
