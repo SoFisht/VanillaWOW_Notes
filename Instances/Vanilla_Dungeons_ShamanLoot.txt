@@ -13,7 +13,7 @@ Orgrimmar, Thunder Bluff, Undercity
 
 Wailing Caverns
 15 - 23
-- Barrens, Thunder Bluff
+Barrens, Thunder Bluff
 - Leggings of the Fang, Cobrahn
 - Armor of the Fang, Pythas
 - Stinging Viper, Pythas
@@ -23,7 +23,7 @@ Wailing Caverns
 
 Shadowfang Keep
 18 - 24
-- Silverpine Forest, Undercity 
+Silverpine Forest, Undercity 
 - Fel Steed Saddlebags, Fel Steed
 - Butcher's Cleaver, Razorclaw
 - Commander's Crest, Springvale
