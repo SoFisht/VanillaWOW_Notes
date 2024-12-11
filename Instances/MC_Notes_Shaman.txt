@@ -1,1 +1,59 @@
-asdasd
+MC Shaman Notes
+
+IMPORTANT: These notes describe shaman-specific playstyle changes specific to fights including totems, interrupts, and purges.  It does NOT describe all boss mechanics or the means of healing them. ie. Some fights are single target rather than multitarget, this is not mentioned.
+__________________________
+
+Pre-Baron Trash
+Totems:  WF/SoE/FiR
+Mechan:  Stack on Surgers
+          
+*LUCIFRON*
+Totems:  WF/SoE/HST
+Mechan:  Cleave Adds on Pull
+
+*MAGMADAR*
+Totems:  WF/Tremor/HST
+Mechan:  Fear @ ~0:05
+
+*GEHENNAS*
+Totems:  WF/SoE/FiR
+Consum:  FAP if in Melee Range
+
+*GARR*
+Totems:  WF/SoE/HST
+Mechan:  L/HW Tanks
+         Drop Totems between Tanks
+
+Post-Baron Trash
+Totems:  WF/SoE/FiR
+
+*BARON GEDDON*
+Totems:  WF/SoE/FiR
+Consum:  GFPP
+Mechan:  Bombs Left Overhang
+
+*SHAZZRAH*
+Totems:  WF/SoE
+Consum:  GAPP
+Mechan:  Purge Buff
+
+*SULFURON*
+Totems:  WF/SoE/FiR
+Consum:  FAP if in Melee Range
+Mechan:  Kick Dark Mending
+         Cleave Adds on Pull
+
+*GOLEMAGG*
+Totems:  WF/SoE/FiR
+Mechan:  Spotheal Offtank
+
+*MAJORDOMO*
+Totems:  WF/SoE/FiR
+Consum:  Pre-GFPP
+Mechan:  Stay away from Adds/Boss
+         Kick stray casts
+
+*RAGNAROS*
+Totems:  WF/SoE/FiR
+Consum:  GFPP
+Mechan:  Stack around Rag to Twist
